@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404584685579",
+    "project_id": "createnavbar",
+    "storage_bucket": "createnavbar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404584685579:android:7d85d8caefeb1c44a8a70e",
+        "android_client_info": {
+          "package_name": "com.example.createNavBar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYNHRSez5AAMMjn1Kwd60BAjU3oPFMAxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
